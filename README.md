@@ -147,4 +147,4 @@ Contributions are welcome! Please:
 
 ## License
 
-MIT License - see LICENSE file for details%                                                                                                                                                            
+MIT License - see [LICENSE](LICENSE.md) file for details.                                                                                                                                                  
