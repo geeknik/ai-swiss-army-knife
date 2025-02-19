@@ -15,7 +15,7 @@ A versatile AI-powered browser extension that helps you summarize content, gener
 
 1. Clone this repository:
    ```bash
-   git clone [repository-url]
+   git clone git@github.com:geeknik/ai-swiss-army-knife.git
    cd ai-swiss-army-knife
    ```
 
@@ -29,8 +29,8 @@ A versatile AI-powered browser extension that helps you summarize content, gener
    npm run build
    ```
 
-4. Load the extension in Brave/Chrome:
-   - Open `brave://extensions/` or `chrome://extensions/`
+4. Load the extension in Brave:
+   - Open `brave://extensions/`
    - Enable "Developer mode"
    - Click "Load unpacked"
    - Select the `dist` directory
