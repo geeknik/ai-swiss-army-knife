@@ -1,0 +1,12 @@
+{
+  "name": "ai-swiss-army-knife",
+  "version": "1.0.0",
+  "description": "A versatile AI-powered browser extension for content generation, summarization, and interaction",
+  "scripts": {
+    "generate-icons": "chmod +x ./generate_icons.sh && ./generate_icons.sh",
+    "build": "npm run generate-icons"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
