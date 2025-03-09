@@ -63,6 +63,8 @@ A powerful browser extension that brings OpenRouter's AI capabilities directly i
 3. Enter your OpenRouter API key
 4. Optionally select default models for different tasks
 
+![image](https://github.com/user-attachments/assets/9c6b6d5b-688b-4518-bc26-e46ae3b1130d)
+
 ## Usage
 
 1. Select text on any webpage
